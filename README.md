@@ -11,7 +11,7 @@
 - 💬 Ask me about **Data Structures and Algorithms ,LEETCODE Consistency**
 
 - 📫 How to reach me **https://www.linkedin.com/in/amit-dahiya08
-- ⚡ Fun fact   I once spent an entire weekend debugging a single line of code...and it turned out to be a missing semicolon.
+- ⚡ Fun fact ->  I once spent an entire weekend debugging a single line of code...and it turned out to be a missing semicolon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
