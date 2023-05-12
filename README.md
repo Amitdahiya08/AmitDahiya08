@@ -1,3 +1,4 @@
+![logo](https://github.com/Amitdahiya08/AmitDahiya08/blob/main/1619644762_github-desktop_story.jpg)
 <h1 align="center">Hi 👋, I'm Amit Dahiya</h1>
 <h3 align="center">A DSA enthusiast exploring the world of web development and open-source.</h3>
 <img align="right" width="250" src="https://thumbs.gfycat.com/DeliriousFarEgret-max-1mb.gif" alt="anime gif">
