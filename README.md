@@ -4,9 +4,9 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="anime gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdahiya08&label=Profile%20views&color=0e75b6&style=flat" alt="amitdahiya08" /> </p>
 
-- 🔭 I’m currently working on **FRONT-END-PROJECTS**
+- 🔭 I’m currently working on **Full stack-PROJECTS**
 
-- 🌱 I’m currently learning **HTML5 , CSS,BOOTSTRAP JS , REACTJS**
+- 🌱 I’m currently learning **HTML5 , CSS,BOOTSTRAP JS , Node js ,Express js, Sql ,MongoDB**
 
 - 💬 Ask me about **Data Structures and Algorithms ,LEETCODE Consistency**
 
